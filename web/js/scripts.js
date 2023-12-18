@@ -51,7 +51,7 @@ function onclickPackage(packageId){
       var preloader = $(".spinner-wrapper");
       setTimeout(function () {
         preloader.fadeOut(preloaderFadeOutTime);
-      }, 250);
+      }, 500);
     }
 
     hidePreloader();
