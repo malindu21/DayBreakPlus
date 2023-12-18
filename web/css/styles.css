@@ -1505,7 +1505,7 @@ input.cmn-toggle-round-flat:checked + label:after {
 .cards-2 .card-body {
   border-color: #111;
   border-width: 2px;
-  background: url("../images/Sample_Image_of_Video_1.gif") center center
+  background: url("../images/Sample_Image_of_Video_1.jpg") center center
     no-repeat;
     background-size: cover;
   padding: 20px;
@@ -1525,7 +1525,7 @@ input.cmn-toggle-round-flat:checked + label:after {
 .cards-5 .card-body {
   border-color: #111;
   border-width: 2px;
-  background: url("../images/Sample_Image_of_Video_2.gif") center center
+  background: url("../images/Sample_Image_of_Video_2.jpg") center center
     no-repeat;
   padding: 20px;
   background-size: cover;
@@ -2510,7 +2510,7 @@ a:hover.back-to-top {
     margin-top: 0.5rem;
   }
   .card5 .card-body {
-    background: url("../images/Sample_Image_of_Video_1.gif") center center
+    background: url("../images/Sample_Image_of_Video_1.jpg") center center
       no-repeat;
     padding: 20px;
     margin-top: 3rem;
